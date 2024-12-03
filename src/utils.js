@@ -1,4 +1,4 @@
-const ID = "3d6d28f142a14944922143358232612"; // Clave de la API
+const ID = ""; // Clave de la API
 const URL = "http://api.weatherapi.com/v1/current.json?key=" + ID;
 const SEARCH_URL = "http://api.weatherapi.com/v1/search.json?key=" + ID;
 const LANG = "es"; // Idioma
